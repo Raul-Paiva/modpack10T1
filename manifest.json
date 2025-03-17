@@ -1,0 +1,39 @@
+{
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.1.133",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Sigmas10T1",
+  "version": "1.0.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 227874,
+      "fileID": 6182439,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 6293771,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 5907384,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 6291517,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
