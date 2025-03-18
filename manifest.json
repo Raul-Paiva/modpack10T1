@@ -11,12 +11,22 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Sigmas10T1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "",
   "files": [
     {
       "projectID": 227874,
       "fileID": 6182439,
+      "required": true
+    },
+    {
+      "projectID": 1015100,
+      "fileID": 6262161,
+      "required": true
+    },
+    {
+      "projectID": 889079,
+      "fileID": 6289153,
       "required": true
     },
     {
@@ -30,8 +40,18 @@
       "required": true
     },
     {
+      "projectID": 890127,
+      "fileID": 6237027,
+      "required": true
+    },
+    {
       "projectID": 324717,
       "fileID": 6291517,
+      "required": true
+    },
+    {
+      "projectID": 913445,
+      "fileID": 5618470,
       "required": true
     }
   ],
