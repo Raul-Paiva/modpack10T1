@@ -1,11 +1,11 @@
 ###  Mods para o Minecraft 1.21.1 e NeoForge 21.1.133
-->Sinytra Connector Extras
-->Sinytra Connector 2.0.0-beta.7
-->Jade 15.10.0
-->YungsApi 5.1.4
-->AppleSkin 3.0.5
-->DynamicLights
-->Forgified Fabric API
-->JEI
-->JourneyMap
-->Simple Voice Chat
+  ->Sinytra Connector Extras
+  ->Sinytra Connector 2.0.0-beta.7
+  ->Jade 15.10.0
+  ->YungsApi 5.1.4
+  ->AppleSkin 3.0.5
+  ->DynamicLights
+  ->Forgified Fabric API
+  ->JEI
+  ->JourneyMap
+  ->Simple Voice Chat
